@@ -7,7 +7,10 @@
 A comprehensive air quality monitoring system developed as a B.Tech major project, combining hardware sensors with a real-time Flutter application to track, visualize, and analyze environmental parameters.
 
 ## 📷 Screenshots
-[Add screenshots of your application here]
+![git_pic_1_e](https://github.com/user-attachments/assets/56306654-ca4d-427c-b6e0-42d56876d67c)
+![gitHub_2_e](https://github.com/user-attachments/assets/5df4c923-a714-46d3-8f4f-5a2ef47dad99)
+
+
 
 ## 📱 Application Features
 
